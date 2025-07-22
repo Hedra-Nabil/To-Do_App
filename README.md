@@ -116,17 +116,17 @@ Elegant date timeline that makes scheduling a visual delight and time management
 <div align="center">
 
 ### 🌅 **Light Mode Elegance**
-<img src="https://via.placeholder.com/800x400/FFFFFF/333333?text=Light+Theme+Showcase" alt="Light Theme Showcase"/>
+<img src="https://github.com/Hedra-Nabil/To-Do_App/blob/main/photo/WhatsApp%20Image%202025-07-22%20at%2008.59.04_1eb1d2e3.jpg"/>
 
 *Experience the clean, minimalist design that boosts productivity during daylight hours*
 
 ### 🌙 **Dark Mode Sophistication**
-<img src="https://via.placeholder.com/800x400/1A1A1A/FFFFFF?text=Dark+Theme+Showcase" alt="Dark Theme Showcase"/>
+<img src="https://github.com/Hedra-Nabil/To-Do_App/blob/main/photo/WhatsApp%20Image%202025-07-22%20at%2008.59.03_e4d2c91b.jpg"/>
 
 *Immerse yourself in the sleek, eye-friendly interface perfect for late-night productivity sessions*
 
 ### 🌍 **Arabic RTL Mastery**
-<img src="https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=Arabic+RTL+Demo" alt="Arabic RTL Demo"/>
+<img src="https://github.com/Hedra-Nabil/To-Do_App/blob/main/photo/WhatsApp%20Image%202025-07-22%20at%2008.59.04_ecac812e.jpg"/>
 
 *Witness the seamless right-to-left interface that respects Arabic language conventions*
 
@@ -911,58 +911,9 @@ Open a PR and celebrate your contribution!
 
 </div>
 
----
-
-## 🎓 Learning Resources
-
-<div align="center">
-
-### 📖 **Master ToDo App Development**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎬 **Video Tutorials**
-<img width="100" src="https://via.placeholder.com/150x150/FF0000/FFFFFF?text=▶️" alt="Video Tutorials"/>
-
-**Complete Course Series**
-- Getting Started Guide
-- Advanced Features Tutorial
-- Deployment Strategies
-- Best Practices Workshop
-
-</td>
-<td align="center" width="33%">
-
-### 📚 **Documentation**
-<img width="100" src="https://via.placeholder.com/150x150/4CAF50/FFFFFF?text=📖" alt="Documentation"/>
-
-**Comprehensive Guides**
-- API Reference
-- Architecture Deep-dive
-- Customization Guide
-- Troubleshooting Manual
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 **Examples & Templates**
-<img width="100" src="https://via.placeholder.com/150x150/FF9800/FFFFFF?text=🎯" alt="Examples"/>
-
-**Ready-to-use Resources**
-- Code Templates
-- UI Components
-- Integration Examples
-- Testing Patterns
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
+
 
 ## 📈 Analytics & Insights
 
@@ -1073,7 +1024,7 @@ SOFTWARE.
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/yourusername/to_do_app/releases/latest">
+<a href="https://github.com/Hedra-Nabil/To-Do_App/releases/latest">
 <img src="https://img.shields.io/badge/🚀_Download_Latest_Release-FF6B35?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 </a>
 </td>
@@ -1088,7 +1039,7 @@ SOFTWARE.
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/yourusername/to_do_app/fork">
+<a href="https://github.com/Hedra-Nabil/To-Do_App/fork">
 <img src="https://img.shields.io/badge/🍴_Fork_Repository-4CAF50?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 </a>
 </td>
@@ -1103,9 +1054,9 @@ SOFTWARE.
 
 ### 🌟 **One Click Away from Productivity Excellence**
 
-[![⭐ Star us on GitHub](https://img.shields.io/github/stars/yourusername/to_do_app?style=social)](https://github.com/yourusername/to_do_app/stargazers)
-[![👁️ Watch for updates](https://img.shields.io/github/watchers/yourusername/to_do_app?style=social)](https://github.com/yourusername/to_do_app/watchers)
-[![🍴 Fork the project](https://img.shields.io/github/forks/yourusername/to_do_app?style=social)](https://github.com/yourusername/to_do_app/network/members)
+[![⭐ Star us on GitHub](https://img.shields.io/github/stars/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/stargazers)
+[![👁️ Watch for updates](https://img.shields.io/github/watchers/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/watchers)
+[![🍴 Fork the project](https://img.shields.io/github/forks/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/network/members)
 
 ---
 
@@ -1113,6 +1064,6 @@ SOFTWARE.
 
 **Made with 💖, ☕, and countless hours of passion by the ToDo App Dream Team**
 
-*Copyright © 2024 ToDo App. All rights reserved.*
+*Copyright © 2025 ToDo App. All rights reserved.*
 
 </div>
