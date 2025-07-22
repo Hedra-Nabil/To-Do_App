@@ -59,7 +59,7 @@
 <td width="33%">
 
 ### 🎯 **Intuitive Task Flow**
-<img src="https://via.placeholder.com/300x200/FF6B35/FFFFFF?text=Task+Management" alt="Task Management"/>
+
 
 Create, organize, and complete tasks with buttery-smooth interactions that make productivity feel effortless.
 
@@ -67,7 +67,7 @@ Create, organize, and complete tasks with buttery-smooth interactions that make 
 <td width="33%">
 
 ### ⚡ **Lightning-Fast Sync**
-<img src="https://via.placeholder.com/300x200/02569B/FFFFFF?text=Real-time+Sync" alt="Real-time Sync"/>
+
 
 Real-time updates across all your devices - because waiting is so yesterday. Your data is always up-to-date.
 
@@ -75,7 +75,7 @@ Real-time updates across all your devices - because waiting is so yesterday. You
 <td width="33%">
 
 ### 🔐 **Fort Knox Security**
-<img src="https://via.placeholder.com/300x200/0175C2/FFFFFF?text=Enterprise+Security" alt="Security"/>
+
 
 Enterprise-grade Firebase authentication protects your data with military-level security protocols.
 
@@ -85,7 +85,7 @@ Enterprise-grade Firebase authentication protects your data with military-level 
 <td width="33%">
 
 ### 🎨 **Adaptive Beauty**
-<img src="https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Themes" alt="Themes"/>
+
 
 Seamlessly switches between stunning light and dark themes that adapt to your preferences.
 
@@ -93,7 +93,7 @@ Seamlessly switches between stunning light and dark themes that adapt to your pr
 <td width="33%">
 
 ### 🌍 **Global Ready**
-<img src="https://via.placeholder.com/300x200/9C27B0/FFFFFF?text=Multilingual" alt="Multilingual"/>
+
 
 Speaks your language - English and Arabic with full RTL support for worldwide accessibility.
 
@@ -101,7 +101,7 @@ Speaks your language - English and Arabic with full RTL support for worldwide ac
 <td width="33%">
 
 ### 📅 **Time Mastery**
-<img src="https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Timeline" alt="Timeline"/>
+
 
 Elegant date timeline that makes scheduling a visual delight and time management effortless.
 
@@ -248,7 +248,7 @@ flutter build apk --release
 
 > *"Architecture is not about the building, it's about the experience within"*
 
-<img src="https://via.placeholder.com/600x400/0D1117/FFFFFF?text=Clean+Architecture+Diagram" alt="Architecture Diagram"/>
+
 
 </div>
 
@@ -314,7 +314,7 @@ flutter build apk --release
 <td width="25%" align="center">
 
 ### 🎭 **Presentation**
-<img width="80" src="https://via.placeholder.com/100x100/FF6B35/FFFFFF?text=UI" alt="UI Layer"/>
+
 
 **Flutter Widgets & BLoC**
 - Beautiful Material Design
@@ -326,7 +326,7 @@ flutter build apk --release
 <td width="25%" align="center">
 
 ### 🧠 **Domain**
-<img width="80" src="https://via.placeholder.com/100x100/02569B/FFFFFF?text=BL" alt="Business Logic"/>
+
 
 **Business Logic**
 - Use cases
@@ -338,7 +338,7 @@ flutter build apk --release
 <td width="25%" align="center">
 
 ### 📊 **Data**
-<img width="80" src="https://via.placeholder.com/100x100/0175C2/FFFFFF?text=DB" alt="Data Layer"/>
+
 
 **Data Sources**
 - Firebase Firestore
@@ -350,7 +350,7 @@ flutter build apk --release
 <td width="25%" align="center">
 
 ### 🔧 **Core**
-<img width="80" src="https://via.placeholder.com/100x100/4CAF50/FFFFFF?text=CORE" alt="Core Layer"/>
+
 
 **Shared Resources**
 - Themes & styles
@@ -504,7 +504,7 @@ service cloud.firestore {
 <td align="center" width="33%">
 
 ### ☀️ **Light Theme**
-<img src="https://via.placeholder.com/200x150/FFFFFF/333333?text=Light+Theme" alt="Light Theme"/>
+
 
 **Inspired by morning sunlight**
 - Primary: `#FF6B35`
@@ -516,7 +516,6 @@ service cloud.firestore {
 <td align="center" width="33%">
 
 ### 🌙 **Dark Theme**
-<img src="https://via.placeholder.com/200x150/1A1A1A/FFFFFF?text=Dark+Theme" alt="Dark Theme"/>
 
 **Crafted for night sessions**
 - Primary: `#FF6B35`
@@ -528,7 +527,7 @@ service cloud.firestore {
 <td align="center" width="33%">
 
 ### 🎯 **Accent Colors**
-<img src="https://via.placeholder.com/200x150/FF6B35/FFFFFF?text=Accents" alt="Accent Colors"/>
+
 
 **Motivation boosters**
 - Success: `#4CAF50`
@@ -549,7 +548,7 @@ service cloud.firestore {
 <td width="33%" align="center">
 
 ### ✨ **Micro-interactions**
-<img width="100" src="https://via.placeholder.com/150x150/FF6B35/FFFFFF?text=Touch" alt="Micro-interactions"/>
+
 
 Every tap, swipe, and gesture provides satisfying visual feedback with carefully crafted animations.
 
@@ -557,7 +556,6 @@ Every tap, swipe, and gesture provides satisfying visual feedback with carefully
 <td width="33%" align="center">
 
 ### 🌊 **Smooth Transitions**
-<img width="100" src="https://via.placeholder.com/150x150/02569B/FFFFFF?text=60fps" alt="Smooth Transitions"/>
 
 Guaranteed 60fps smoothness across all devices with optimized rendering pipelines.
 
@@ -565,7 +563,7 @@ Guaranteed 60fps smoothness across all devices with optimized rendering pipeline
 <td width="33%" align="center">
 
 ### 🎯 **Meaningful Motion**
-<img width="100" src="https://via.placeholder.com/150x150/0175C2/FFFFFF?text=Guide" alt="Meaningful Motion"/>
+
 
 Animations that guide users and provide contextual feedback for better UX.
 
@@ -584,25 +582,25 @@ Animations that guide users and provide contextual feedback for better UX.
 <table>
 <tr>
 <td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/4CAF50/FFFFFF?text=Unit" alt="Unit Tests"/>
+
 <br><b>Unit Tests</b>
 <br>Foundation Layer
 <br><code>flutter test</code>
 </td>
 <td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/FF9800/FFFFFF?text=Widget" alt="Widget Tests"/>
+
 <br><b>Widget Tests</b>
 <br>UI Components
 <br><code>flutter test test/widget</code>
 </td>
 <td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/2196F3/FFFFFF?text=E2E" alt="Integration Tests"/>
+
 <br><b>Integration Tests</b>
 <br>Full Workflows
 <br><code>flutter test integration_test/</code>
 </td>
 <td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/9C27B0/FFFFFF?text=Coverage" alt="Coverage"/>
+
 <br><b>Coverage Analysis</b>
 <br>Code Quality
 <br><code>flutter test --coverage</code>
