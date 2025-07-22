@@ -760,7 +760,7 @@ Animations that guide users and provide contextual feedback for better UX.
 
 ### 🌟 **Contributing to Excellence**
 
-<img src="https://contrib.rocks/image?repo=yourusername/to_do_app" alt="Contributors"/>
+<img src="https://contrib.rocks/image?repo=Hedra-Nabil/To-Do_App" alt="Contributors"/>
 
 *Join our amazing community of developers who are shaping the future of productivity*
 
@@ -921,15 +921,15 @@ Open a PR and celebrate your contribution!
 
 ### 📊 **Project Statistics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hedra-Nabil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hedra-Nabil&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedra-Nabil&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 
 ### 🚀 **Development Activity**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hedra-Nabil&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -1054,9 +1054,9 @@ SOFTWARE.
 
 ### 🌟 **One Click Away from Productivity Excellence**
 
-[![⭐ Star us on GitHub](https://img.shields.io/github/stars/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/stargazers)
-[![👁️ Watch for updates](https://img.shields.io/github/watchers/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/watchers)
-[![🍴 Fork the project](https://img.shields.io/github/forks/Hedra-Nabil/To-Do_App?style=social)](https://github.com/yourusername/to_do_app/network/members)
+[![⭐ Star us on GitHub](https://img.shields.io/github/stars/Hedra-Nabil/To-Do_App?style=social)](https://github.com/Hedra-Nabil/To-Do_App/stargazers)
+[![👁️ Watch for updates](https://img.shields.io/github/watchers/Hedra-Nabil/To-Do_App?style=social)](https://github.com/Hedra-Nabil/To-Do_App/watchers)
+[![🍴 Fork the project](https://img.shields.io/github/forks/Hedra-Nabil/To-Do_App?style=social)](https://github.com/Hedra-Nabil/To-Do_App/network/members)
 
 ---
 
