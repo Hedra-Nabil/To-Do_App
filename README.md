@@ -41,12 +41,12 @@
 
 ### 📊 **Project Stats**
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/to_do_app?style=for-the-badge&logo=github&color=gold&labelColor=0D1117)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/to_do_app?style=for-the-badge&logo=github&color=blue&labelColor=0D1117)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/to_do_app?style=for-the-badge&logo=github&color=red&labelColor=0D1117)
-![GitHub license](https://img.shields.io/github/license/yourusername/to_do_app?style=for-the-badge&logo=github&color=green&labelColor=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/Hedra-Nabil/To-Do_App?style=for-the-badge&logo=github&color=gold&labelColor=0D1117)
+![GitHub forks](https://img.shields.io/github/forks/Hedra-Nabil/To-Do_App?style=for-the-badge&logo=github&color=blue&labelColor=0D1117)
+![GitHub issues](https://img.shields.io/github/issues/Hedra-Nabil/To-Do_App?style=for-the-badge&logo=github&color=red&labelColor=0D1117)
+![GitHub license](https://img.shields.io/github/license/Hedra-Nabil/To-Do_App?style=for-the-badge&logo=github&color=green&labelColor=0D1117)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=to_do_app&theme=tokyonight&hide_border=true&show_owner=true" alt="ToDo App Repo Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hedra-Nabil&repo=To-Do_App&theme=tokyonight&hide_border=true&show_owner=true" alt="ToDo App Repo Stats"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Elegant date timeline that makes scheduling a visual delight and time management
 <br>
 
 [![🎮 Try Live Demo](https://img.shields.io/badge/🎮_Try_Live_Demo-FF6B35?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://todoapp-demo.web.app)
-[![📱 Download APK](https://img.shields.io/badge/📱_Download_APK-02569B?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://github.com/yourusername/to_do_app/releases)
+[![📱 Download APK](https://img.shields.io/badge/📱_Download_APK-02569B?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://github.com/Hedra-Nabil/To-Do_App/releases)
 
 </div>
 
@@ -179,7 +179,7 @@ Elegant date timeline that makes scheduling a visual delight and time management
 
 ```bash
 # 🍴 Fork the repository first, then clone
-git clone https://github.com/yourusername/to_do_app.git
+git clone https://github.com/Hedra-Nabil/To-Do_App.git
 cd to_do_app
 
 # 📊 Check repository status
@@ -750,49 +750,7 @@ Animations that guide users and provide contextual feedback for better UX.
 
 </details>
 
----
 
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/FFD700/000000?text=🥇" alt="Best App Award"/>
-<br><b>🥇 Best Flutter App 2024</b>
-<br>Flutter Community Awards
-<br><i>Innovation Excellence</i>
-</td>
-<td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/FF6B35/FFFFFF?text=⭐" alt="Top App"/>
-<br><b>⭐ Top Productivity App</b>
-<br>Google Play Store
-<br><i>Editor's Choice</i>
-</td>
-<td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/4CAF50/FFFFFF?text=🎨" alt="Design Award"/>
-<br><b>🎨 UI/UX Excellence</b>
-<br>Material Design Awards
-<br><i>Outstanding Design</i>
-</td>
-<td align="center" width="25%">
-<img width="80" src="https://via.placeholder.com/120x120/2196F3/FFFFFF?text=🚀" alt="Innovation Award"/>
-<br><b>🚀 Innovation Award</b>
-<br>Firebase Summit 2024
-<br><i>Technical Excellence</i>
-</td>
-</tr>
-</table>
-
-### 📈 **Community Impact**
-
-![Downloads](https://img.shields.io/badge/Downloads-1M+-success?style=for-the-badge&logo=download&labelColor=0D1117)
-![Users](https://img.shields.io/badge/Active_Users-100K+-blue?style=for-the-badge&logo=users&labelColor=0D1117)
-![Rating](https://img.shields.io/badge/Rating-4.9★-gold?style=for-the-badge&logo=star&labelColor=0D1117)
-![Countries](https://img.shields.io/badge/Countries-50+-green?style=for-the-badge&logo=globe&labelColor=0D1117)
-
-</div>
 
 ---
 
@@ -893,20 +851,7 @@ Open a PR and celebrate your contribution!
 
 <table>
 <tr>
-<td align="center" width="20%">
-<a href="https://discord.gg/todoapp">
-<img width="80" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843dcf5_icon_clyde_white_RGB.svg"/>
-<br><b>Discord</b>
-<br>24/7 Community Chat
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://twitter.com/todoapp">
-<img width="80" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png"/>
-<br><b>Twitter</b>
-<br>Latest Updates
-</a>
-</td>
+
 <td align="center" width="20%">
 <a href="https://linkedin.com/company/todoapp">
 <img width="80" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
@@ -921,13 +866,7 @@ Open a PR and celebrate your contribution!
 <br>Feature Requests
 </a>
 </td>
-<td align="center" width="20%">
-<a href="https://youtube.com/@todoapp">
-<img width="80" src="https://www.youtube.com/img/desktop/yt_1200.png"/>
-<br><b>YouTube</b>
-<br>Tutorials & Demos
-</a>
-</td>
+
 </tr>
 </table>
 
