@@ -853,14 +853,14 @@ Open a PR and celebrate your contribution!
 <tr>
 
 <td align="center" width="20%">
-<a href="https://linkedin.com/company/todoapp">
+<a href="https://www.linkedin.com/in/hedra-nabil-6043221a4/">
 <img width="80" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 <br><b>LinkedIn</b>
 <br>Professional Network
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/yourusername/to_do_app/discussions">
+<a href="https://github.com/Hedra-Nabil/To-Do_Appp/discussions">
 <img width="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 <br><b>Discussions</b>
 <br>Feature Requests
@@ -877,7 +877,7 @@ Open a PR and celebrate your contribution!
 <td align="center" width="25%">
 
 ### 💌 **Email Support**
-[hello@todoapp.com](mailto:hello@todoapp.com)
+[hedranabil614@gmail.com](mailto:hedranabil614@gmail.com)
 
 *24/7 response guarantee*
 
@@ -885,7 +885,7 @@ Open a PR and celebrate your contribution!
 <td align="center" width="25%">
 
 ### 🐛 **Bug Reports**
-[GitHub Issues](https://github.com/yourusername/to_do_app/issues)
+[GitHub Issues](https://github.com/Hedra-Nabil/To-Do_App/issues)
 
 *Detailed bug tracking*
 
@@ -893,7 +893,7 @@ Open a PR and celebrate your contribution!
 <td align="center" width="25%">
 
 ### 💡 **Feature Requests**
-[GitHub Discussions](https://github.com/yourusername/to_do_app/discussions)
+[GitHub Discussions](https://github.com/Hedra-Nabil/To-Do_App/discussions)
 
 *Community-driven features*
 
@@ -901,7 +901,7 @@ Open a PR and celebrate your contribution!
 <td align="center" width="25%">
 
 ### 📚 **Documentation**
-[Wiki & Guides](https://github.com/yourusername/to_do_app/wiki)
+[Wiki & Guides](https://github.com/Hedra-Nabil/To-Do_App/wiki)
 
 *Comprehensive guides*
 
